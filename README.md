@@ -1,6 +1,6 @@
 # pandas-challenge
 
-Heros of Pymoli:
+Heros of Pymoli: Data Analysis
 
  - Of the 780 players listed, 84% of them are male, with there being only 14% of female players. 
 
